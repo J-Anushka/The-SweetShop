@@ -1,0 +1,5 @@
+{
+  "name": "The Sweet Shop",
+  "description": "A full-stack style Sweet Shop application with role-based authentication, inventory management, and CRUD capabilities.",
+  "requestFramePermissions": []
+}
